@@ -1,4 +1,7 @@
 Fiex::Application.routes.draw do
+  resources :hashtags
+
+
   resources :tweets
 
 
