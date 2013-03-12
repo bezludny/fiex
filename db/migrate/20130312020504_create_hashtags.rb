@@ -9,3 +9,4 @@ class CreateHashtags < ActiveRecord::Migration
 end
 
 #another comment for new model
+#another one
