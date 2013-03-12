@@ -1,4 +1,7 @@
 Fiex::Application.routes.draw do
+  resources :categories
+
+
   resources :hashtags
 
 
